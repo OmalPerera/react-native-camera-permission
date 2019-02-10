@@ -1,0 +1,24 @@
+{
+  "name": "react-native-camera-permission",
+  "version": "0.1.0",
+  "description": "React-native bridge to check camera permission before opening the camera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmalPerera/react-native-camera-permission.git"
+  },
+  "keywords": [
+    "react-native",
+    "camera",
+    "permissions"
+  ],
+  "author": "Omal Perera <omalperera8@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OmalPerera/react-native-camera-permission/issues"
+  },
+  "homepage": "https://github.com/OmalPerera/react-native-camera-permission#readme"
+}
